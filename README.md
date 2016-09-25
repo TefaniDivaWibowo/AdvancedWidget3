@@ -2,6 +2,8 @@
 
 Screenshot Program
 
+![Screenshot AdvancedWidget3](https://github.com/TefaniDivaWibowo/AdvancedWidget3/blob/master/XIIRPL1%2337%23AdvancedWidget%23Praktek3.0.jpg)
+
 ![Screenshot AdvancedWidget3](https://github.com/TefaniDivaWibowo/AdvancedWidget3/blob/master/XIIRPL1%2337%23AdvancedWidget%23Praktek3.jpg)
 
 #Identitas
